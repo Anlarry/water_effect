@@ -6,7 +6,7 @@
 - **mouse right press** 拨水
 - **mouse left press** 放石头
 
-![image-20200611174710805](src/image-20200611174710805.png)
+![image-20200611174710805](https://github.com/Anlarry/water_effect/blob/master/src/image-20200611174710805.png)
 
 ## Water Effects
 
